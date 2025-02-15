@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "queue": "cpp",
+        "cmath": "cpp",
+        "deque": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
